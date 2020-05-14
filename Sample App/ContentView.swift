@@ -10,12 +10,14 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        // No noe!!!
+        Text("Hello, World! This will be a conflict")
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
+        // Just a comment
         ContentView()
     }
 }
