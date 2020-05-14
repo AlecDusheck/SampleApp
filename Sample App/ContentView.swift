@@ -10,8 +10,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        Text("Hello, World!")
         // No noe!!!
-        Text("Hello, World! This will be a conflict")
     }
 }
 
