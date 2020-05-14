@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Sample App
 //
-//  Created by adusheck_eit on 5/11/20.
+//  Created by Alec Dusheck on 5/11/20.
 //  Copyright © 2020 adusheck_eit. All rights reserved.
 //
 
